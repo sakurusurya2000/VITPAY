@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VITPay</string>
+    <string name="treg">Registration Number:</string>
+    <string name="amt">Amount:</string>
+    <string name="p">Pay</string>
+    <string name="am">Amount</string>
+</resources>

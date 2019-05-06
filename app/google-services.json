@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "99212121186",
+    "firebase_url": "https://vitpay-3e5f2.firebaseio.com",
+    "project_id": "vitpay-3e5f2",
+    "storage_bucket": "vitpay-3e5f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99212121186:android:3d7915250a48ba04",
+        "android_client_info": {
+          "package_name": "com.example.aneesh.vitpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99212121186-5s1oht5t3hlamaflhj78e30n2hkhgsg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aneesh.vitpay",
+            "certificate_hash": "3200b1f8a0b3bce88b0c29710014e9ab19c29973"
+          }
+        },
+        {
+          "client_id": "99212121186-esrsf8gjo2cvvo29r3gqqu4hahqklf0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFEbHmUBchNa1wa7AblGsJa0rr1LbwcL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99212121186-esrsf8gjo2cvvo29r3gqqu4hahqklf0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
